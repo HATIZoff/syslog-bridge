@@ -2,9 +2,9 @@
   "name": "syslog-bridge",
   "version": "1.0.0",
   "description": "Bridge between UDP Syslog and SolarWinds Token HTTPS",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "axios": "^1.6.0"
